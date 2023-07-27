@@ -1,0 +1,25 @@
+.color {
+    background-color: rgb(129, 11, 197);
+    width: 55px;
+    outline: none;
+}
+
+.size {
+    font-size: 25px;
+}
+.morado {
+    color: rgb(89, 24, 150);
+}
+.card-container {
+    max-width: 30em;
+    height: 24.4em;
+}
+.buttonSize {
+    /* width: 25em; */
+    padding: 10px;  
+    border: none;
+    color: white;
+}
+.custom-checkbox .form-check-input[type="checkbox"]:checked {
+    background-color: rgb(89, 24, 150);
+  }
